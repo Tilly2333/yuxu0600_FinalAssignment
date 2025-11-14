@@ -13,7 +13,7 @@ Based on one of our group project’s static iterations, I developed this indivi
 ## Inspiration
 The inspiration came from many paintings by Nasreen Mohamedi.
 I noticed that besides the variation in line thickness (which we explored in our group work), many of her works also show subtle shifts in grayscale, creating depth and rhythm.
-I was also inspired by examples from the p5.js library, especially those involving progress slider bars, which helped me design a more structured and logical code flow.
+I was also inspired by examples from the p5.js library, especially those involving progress sliders, which helped me design a more structured and logical code flow.
 
 ## Approach and Technical Overview
 In my individual project I focused on:
@@ -21,7 +21,7 @@ In my individual project I focused on:
 * Used a progress slider to see the drawing progress.
 * Added a play/pause button to control animation play.
 * Introduced color (grayscale) transitions so lines gradually darken as they appear.
-* Used a setInterval() - timer to record and display progress information.
+* Used a `setInterval()` - timer to record and display progress information.
 
 I created several custom functions to structure the program:
 * `adjustStrokeAndScale()` – Dynamically adjusts line thickness and scaling based on the window size.
